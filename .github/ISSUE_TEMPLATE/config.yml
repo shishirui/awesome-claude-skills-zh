@@ -1,5 +1,5 @@
 blank_issues_enabled: true
 contact_links:
   - name: 我有问题想问
-    url: https://github.com/
+    url: https://github.com/shishirui/awesome-claude-skills-zh/issues/new
     about: 如果你有使用问题、收录标准疑问、或仓库相关的讨论，直接开 blank issue 即可。
