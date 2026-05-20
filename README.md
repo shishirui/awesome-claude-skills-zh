@@ -48,37 +48,55 @@
 
 > 代码 review、调试、重构、测试生成、版本管理等开发流程中的辅助技能。
 
-_暂无收录，欢迎通过 [PR](CONTRIBUTING.md) 或 [issue](../../issues/new/choose) 推荐你知道的优秀 skill。_
+- **[claude-code-skills-zh](https://github.com/laolaoshiren/claude-code-skills-zh)** — 精选 100+ Claude Code skill 的中文合集，含 18 个原创可直接安装的中文 skill（zh-code-reviewer、zh-readme 等）。
+  **什么时候用：** 想用中文母语做代码 review 或生成中文 README，避免英文 skill 的"翻译腔"输出时。
+  **作者：** [@laolaoshiren](https://github.com/laolaoshiren)　**标签：** `合集` `代码审查` `README` `中文输出`
+
+- **[yunshu_skillshub](https://github.com/yunshu0909/yunshu_skillshub)** — 云舒整理的 Claude Code skill 集合，覆盖周报、PRD、UI 设计、需求分析等开发与产品工作流。
+  **什么时候用：** 需要从 git commit / 会议记录自动生成周报，或做产品需求文档与 UI 风格迭代时。
+  **作者：** [@yunshu0909](https://github.com/yunshu0909)　**标签：** `合集` `周报` `PRD` `产品管理`
 
 ### 文档与写作
 
 > 技术文档、PR 描述、commit 信息、周报、README 生成等写作场景。
 
-_暂无收录，欢迎通过 [PR](CONTRIBUTING.md) 或 [issue](../../issues/new/choose) 推荐你知道的优秀 skill。_
+- **[baoyu-skills](https://github.com/JimLiu/baoyu-skills)** — 宝玉的 20+ 内容创作 skill 合集，含小红书卡片、信息图、SVG 图解、文章插图，以及公众号/微博/X 一键发布。
+  **什么时候用：** 做自媒体内容、技术博客配图、社交平台多平台分发时——中文创作生态目前最成熟的工具集。
+  **作者：** [@JimLiu](https://github.com/JimLiu)　**标签：** `合集` `自媒体` `小红书` `公众号` `配图`
+
+- **[md2wechat-skill](https://github.com/geekjourneyx/md2wechat-skill)** — Markdown 转公众号排版，40+ 主题与 43 个版式组件，支持 AI 配图与一键推送草稿。
+  **什么时候用：** 公众号文章排版调样式调到崩溃时——给它一个 Markdown 文件，剩下交给它。
+  **作者：** [@geekjourneyx](https://github.com/geekjourneyx)　**标签：** `公众号` `排版` `Markdown`
 
 ### 数据处理
 
 > CSV/Excel 处理、SQL 查询、数据清洗、可视化、报表生成等。
 
-_暂无收录，欢迎通过 [PR](CONTRIBUTING.md) 或 [issue](../../issues/new/choose) 推荐你知道的优秀 skill。_
+- **[skills_collection](https://github.com/wwwzhouhui/skills_collection)** — 个人开发的 Claude Code skill 集合，其中 excel-report-generator 可从 CSV/DataFrame/数据库自动生成带图表样式的专业 Excel 报表。
+  **什么时候用：** 需要给老板出报表、把数据库查询结果整理成可发邮件的 Excel 时。
+  **作者：** [@wwwzhouhui](https://github.com/wwwzhouhui)　**标签：** `合集` `Excel` `报表` `办公自动化`
 
 ### 运维部署
 
 > CI/CD、Docker、Kubernetes、云服务配置、日志分析、监控告警等。
 
-_暂无收录，欢迎通过 [PR](CONTRIBUTING.md) 或 [issue](../../issues/new/choose) 推荐你知道的优秀 skill。_
+> 📢 **本分类招募中**：中文社区高质量的运维 skill 还很稀缺。如果你写过或用过好用的 K8s / CI/CD / 监控类 skill，欢迎通过 [PR](CONTRIBUTING.md) 或 [issue](../../issues/new/choose) 推荐。
 
 ### 学习研究
 
 > 论文阅读、知识整理、笔记生成、概念解释、学习计划等。
 
-_暂无收录，欢迎通过 [PR](CONTRIBUTING.md) 或 [issue](../../issues/new/choose) 推荐你知道的优秀 skill。_
+- **[codex-claude-academic-skills](https://github.com/zLanqing/codex-claude-academic-skills)** — 中文科研工作流三件套：论文阅读 + 学术 PPT 生成、写作润色与审稿回复、MATLAB/Python 科学计算与期刊级绘图。
+  **什么时候用：** 国内高校与科研人员做文献综述、写论文、回审稿意见、画发表用图表时。
+  **作者：** [@zLanqing](https://github.com/zLanqing)　**标签：** `科研` `论文` `学术写作` `MATLAB` `Python`
 
 ### 设计与创意
 
 > UI/UX 评审、文案创作、命名建议、配色与排版、原型生成等。
 
-_暂无收录，欢迎通过 [PR](CONTRIBUTING.md) 或 [issue](../../issues/new/choose) 推荐你知道的优秀 skill。_
+- **[claude-design-skill](https://github.com/jiji262/claude-design-skill)** — 复刻 Claude.ai 内部 Design 系统 prompt，让 Claude 输出 HTML deck、landing page、原型、动画、海报。
+  **什么时候用：** 想要 Claude 生成不像"AI 默认审美"的视觉输出时——能产出更接近 Claude.ai 官方风格的设计。
+  **作者：** [@jiji262](https://github.com/jiji262)　**标签：** `HTML` `原型` `landing page` `海报`
 
 ---
 
