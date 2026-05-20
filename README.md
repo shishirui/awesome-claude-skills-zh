@@ -56,6 +56,14 @@
   **什么时候用：** 需要从 git commit / 会议记录自动生成周报，或做产品需求文档与 UI 风格迭代时。
   **作者：** [@yunshu0909](https://github.com/yunshu0909)　**标签：** `合集` `周报` `PRD` `产品管理`
 
+- **[claude-skills-suite](https://github.com/joneqian/claude-skills-suite)** — 全栈 skill 套件：14 个 Agents + 16 个 Commands + 40 个 Skills，含 D3 可视化、PostgreSQL/MySQL、微信小程序等国内技术栈。
+  **什么时候用：** 想要一个开箱即用的大套件，尤其是涉及国内技术栈（微信小程序、TDesign）时。
+  **作者：** [@joneqian](https://github.com/joneqian)　**标签：** `合集` `全栈` `微信小程序` `数据库`
+
+- **[huangwb8/skills](https://github.com/huangwb8/skills)** — Claude Code & Codex 通用 skill 开发流水线脚手架，含项目初始化、测试、Git 自动化模板。
+  **什么时候用：** 自己写新 skill 时不想从零搭基础结构，或想跨 Claude Code / Codex 平台时。
+  **作者：** [@huangwb8](https://github.com/huangwb8)　**标签：** `脚手架` `开发流水线` `Codex 兼容`
+
 ### 文档与写作
 
 > 技术文档、PR 描述、commit 信息、周报、README 生成等写作场景。
@@ -68,6 +76,22 @@
   **什么时候用：** 公众号文章排版调样式调到崩溃时——给它一个 Markdown 文件，剩下交给它。
   **作者：** [@geekjourneyx](https://github.com/geekjourneyx)　**标签：** `公众号` `排版` `Markdown`
 
+- **[qiaomu-anything-to-notebooklm](https://github.com/joeseesun/qiaomu-anything-to-notebooklm)** — 乔木的多源内容处理 skill，把微信文章、网页、YouTube、PDF 转成 NotebookLM 播客、PPT、思维导图、测验。
+  **什么时候用：** 想把零散学习材料（公众号收藏 / 长视频 / 论文）自动整理成播客或学习卡片时。
+  **作者：** [@joeseesun](https://github.com/joeseesun)　**标签：** `NotebookLM` `内容转换` `微信文章` `播客`
+
+- **[wewrite](https://github.com/oaker-io/wewrite)** — 公众号文章全流程 skill：热点抓取 → 选题 → 写作 → SEO → AI 配图 → 排版 → 微信草稿箱推送。
+  **什么时候用：** 自媒体作者想一句命令跑完整公众号发文流水线时。
+  **作者：** [@oaker-io](https://github.com/oaker-io)　**标签：** `公众号` `全流程` `自媒体` `选题`
+
+- **[XiaohongshuSkills](https://github.com/white0dew/XiaohongshuSkills)** — 小红书自动发布、评论、检索 skill，支持多账号与无头模式，兼容 OpenClaw / Codex / Claude Code。
+  **什么时候用：** 做小红书运营需要批量发笔记、自动回复评论、抓取数据时。
+  **作者：** [@white0dew](https://github.com/white0dew)　**标签：** `小红书` `自动化` `多账号` `运营`
+
+- **[Viral_Writer_Skill](https://github.com/nashsu/Viral_Writer_Skill)** — 基于 11 个内容洞见维度的自媒体创作 skill，输入主题输出完整文章 + 5 个备选标题 + 每张配图的生成 prompt。
+  **什么时候用：** 写自媒体爆款标题困难、或想要系统化的内容创作方法论时。
+  **作者：** [@nashsu](https://github.com/nashsu)　**标签：** `爆款` `自媒体` `标题党` `配图 prompt`
+
 ### 数据处理
 
 > CSV/Excel 处理、SQL 查询、数据清洗、可视化、报表生成等。
@@ -76,11 +100,19 @@
   **什么时候用：** 需要给老板出报表、把数据库查询结果整理成可发邮件的 Excel 时。
   **作者：** [@wwwzhouhui](https://github.com/wwwzhouhui)　**标签：** `合集` `Excel` `报表` `办公自动化`
 
+- **[duckdb-skills](https://github.com/duckdb/duckdb-skills)** — DuckDB 官方 skill 合集，用 SQL 直接查询本地 CSV / Parquet / JSON / Excel / SQLite，支持 S3 / GCS 远程文件。（英文项目）
+  **什么时候用：** 不想 import pandas、但想用 SQL 快速对一堆本地数据文件做分析时。
+  **作者：** [@duckdb](https://github.com/duckdb)　**标签：** `SQL` `DuckDB` `CSV` `Parquet` `官方`
+
 ### 运维部署
 
 > CI/CD、Docker、Kubernetes、云服务配置、日志分析、监控告警等。
 
-> 📢 **本分类招募中**：中文社区高质量的运维 skill 还很稀缺。如果你写过或用过好用的 K8s / CI/CD / 监控类 skill，欢迎通过 [PR](CONTRIBUTING.md) 或 [issue](../../issues/new/choose) 推荐。
+- **[kubernetes-skill](https://github.com/LukasNiessen/kubernetes-skill)** — failure-mode-first 生成 K8s manifest，覆盖 NSA/CISA/CIS 安全基准与 Helm/Kustomize。（英文项目）
+  **什么时候用：** 让 Claude 写 K8s YAML 但担心幻觉、或需要满足合规基准时。
+  **作者：** [@LukasNiessen](https://github.com/LukasNiessen)　**标签：** `K8s` `Helm` `Kustomize` `合规`
+
+> 📢 **本分类仍在招募中文社区原创**：目前条目以英文项目为主。如果你写过或用过好用的 K8s / CI/CD / 监控类**中文** skill，欢迎通过 [PR](CONTRIBUTING.md) 或 [issue](../../issues/new/choose) 推荐。
 
 ### 学习研究
 
@@ -90,9 +122,21 @@
   **什么时候用：** 国内高校与科研人员做文献综述、写论文、回审稿意见、画发表用图表时。
   **作者：** [@zLanqing](https://github.com/zLanqing)　**标签：** `科研` `论文` `学术写作` `MATLAB` `Python`
 
+- **[interview-master-skill](https://github.com/chen3tu/interview-master-skill)** — 求职面试全流程 skill：公司七维分析 + STAR-R 法则简历 + 模拟面试 + 薪资谈判。
+  **什么时候用：** 准备面试、复盘 offer、谈判薪资时——比通用建议更结构化。
+  **作者：** [@chen3tu](https://github.com/chen3tu)　**标签：** `求职` `面试` `STAR-R` `薪资谈判`
+
 ### 设计与创意
 
 > UI/UX 评审、文案创作、命名建议、配色与排版、原型生成等。
+
+- **[huashu-design](https://github.com/alchaincyf/huashu-design)** — 花叔的 HTML 原生设计 skill，一句话产出高保真原型、幻灯片、动画、印刷级海报，内置 20 套设计哲学。
+  **什么时候用：** 想要 Claude 生成不像"AI 默认审美"的视觉作品时——产品发布动画、可点击 App 原型、印刷信息图都能搞定。
+  **作者：** [@alchaincyf](https://github.com/alchaincyf) (花叔)　**标签：** `HTML` `原型` `动画` `海报` `印刷级`
+
+- **[NanoBanana-PPT-Skills](https://github.com/op7418/NanoBanana-PPT-Skills)** — 归藏的 AI 自动 PPT 工具，生成 2K/4K 杂志风 / 科研汇报 PPT 图片，支持智能转场视频与交互式播放。
+  **什么时候用：** 临时要 PPT 但没设计感、或想做 AI 风格的杂志级幻灯片时。
+  **作者：** [@op7418](https://github.com/op7418) (归藏)　**标签：** `PPT` `Gemini` `转场动画` `4K`
 
 - **[claude-design-skill](https://github.com/jiji262/claude-design-skill)** — 复刻 Claude.ai 内部 Design 系统 prompt，让 Claude 输出 HTML deck、landing page、原型、动画、海报。
   **什么时候用：** 想要 Claude 生成不像"AI 默认审美"的视觉输出时——能产出更接近 Claude.ai 官方风格的设计。
@@ -110,9 +154,10 @@ _暂无收录，欢迎贡献你常用且效果好的 prompt 模板。_
 
 ## 相关资源
 
-**官方文档**
+**官方文档与仓库**
 
 - [Claude Code 官方文档](https://docs.claude.com/claude-code)
+- [anthropics/skills](https://github.com/anthropics/skills) — Anthropic 官方 skills 仓库（13.7 万 ★），含 canvas-design、pdf 等基线 skill，可视为所有 Claude skill 的"标准库"
 - [Anthropic 官方 plugins 仓库](https://github.com/anthropics/claude-plugins-official)
 
 **其他优秀的 skills 收集项目**（英文为主，欢迎参考）
