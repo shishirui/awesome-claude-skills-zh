@@ -140,6 +140,10 @@
   **什么时候用：** 把小红书种草内容沉淀到第二大脑、或建本地内容素材库时。
   **作者：** [@chenxiachan](https://github.com/chenxiachan)　**标签：** `小红书` `Obsidian` `素材库` `Whisper`
 
+- **[x-twitter-scraper](https://github.com/Xquik-dev/x-twitter-scraper)** — Xquik 的 X 数据 skill，覆盖推文/用户搜索、导出、监控、webhook、MCP 与 SDK 接入。
+  **什么时候用：** 需要把公开 X 数据接入 agent 工作流、报表或监控，并保留 API key 边界与写入确认时。
+  **作者：** [@Xquik-dev](https://github.com/Xquik-dev)　**标签：** `X` `Twitter` `数据采集` `MCP` `webhook`
+
 - **[skills_collection](https://github.com/wwwzhouhui/skills_collection)** — 个人开发的 Claude Code skill 集合，其中 excel-report-generator 可从 CSV/DataFrame/数据库自动生成带图表样式的专业 Excel 报表。
   **什么时候用：** 需要给老板出报表、把数据库查询结果整理成可发邮件的 Excel 时。
   **作者：** [@wwwzhouhui](https://github.com/wwwzhouhui)　**标签：** `合集` `Excel` `报表` `办公自动化`
