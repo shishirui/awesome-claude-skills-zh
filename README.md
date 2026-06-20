@@ -72,6 +72,10 @@
   **什么时候用：** 自己写新 skill 时不想从零搭基础结构，或想跨 Claude Code / Codex 平台时。
   **作者：** [@huangwb8](https://github.com/huangwb8)　**标签：** `脚手架` `开发流水线` `Codex 兼容`
 
+- **[ax-extract-workflow](https://github.com/Necmttn/ax/tree/main/skills/ax-extract-workflow)** — 基于本地 ax 会话、提交记录、skill 使用和 sub-agent 活动，还原 PR、功能或报告的交付过程。
+  **什么时候用：** 需要复盘一次交付、提炼可复用流程，或梳理 agent 协作过程时。
+  **作者：** [@Necmttn](https://github.com/Necmttn)　**标签：** `工作流复盘` `agent协作` `本地记录` `Claude Code`
+
 - **[claude-skills-suite](https://github.com/joneqian/claude-skills-suite)** — 全栈 skill 套件：14 个 Agents + 16 个 Commands + 40 个 Skills，含 D3 可视化、PostgreSQL/MySQL、微信小程序等国内技术栈。
   **什么时候用：** 想要一个开箱即用的大套件，尤其是涉及国内技术栈（微信小程序、TDesign）时。
   **作者：** [@joneqian](https://github.com/joneqian)　**标签：** `合集` `全栈` `微信小程序` `数据库`
