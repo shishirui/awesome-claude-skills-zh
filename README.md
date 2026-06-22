@@ -128,6 +128,10 @@
   **什么时候用：** 批量做短视频字幕、信息流摘要时——中文短视频平台全覆盖。
   **作者：** [@imlewc](https://github.com/imlewc)　**标签：** `视频字幕` `Whisper` `抖音` `B站`
 
+- **[NotFair](https://github.com/nowork-studio/NotFair)** — 面向营销人员的开源 Claude Code skill 套件，含 [SEO](https://github.com/nowork-studio/NotFair/tree/main/seo)（关键词研究、元标签、Schema、内容写作、GEO）、[Google Ads](https://github.com/nowork-studio/NotFair/tree/main/google-ads)（审计、搜索词清理、竞价管理）、[Meta Ads](https://github.com/nowork-studio/NotFair/tree/main/meta-ads)（ROAS 分析、素材疲劳检测、受众重叠），通过 Google Ads MCP、Meta Ads MCP、Google Search Console MCP 和 Google Analytics (GA4) MCP 接入真实数据。（MIT 协议，~2.9k ★）
+  **什么时候用：** 需要 Claude Code 直连广告后台做 SEO 诊断、Google Ads 浪费支出排查或 Meta 广告效果分析时。
+  **作者：** [@nowork-studio](https://github.com/nowork-studio)　**标签：** `SEO` `Google Ads` `Meta Ads` `MCP` `营销`
+
 ### 数据处理
 
 > CSV/Excel 处理、SQL 查询、数据清洗、可视化、报表生成等。
