@@ -228,6 +228,10 @@
 
 > UI/UX 评审、文案创作、命名建议、配色与排版、原型生成等。
 
+- **[runapi-cli-skill](https://github.com/runapi-ai/cli-skill)** — RunAPI CLI 的 agent skill，让 Claude Code、Codex 等智能体调用图片、视频、音乐 / 音频、语音和 LLM 等模型 API 任务。
+  **什么时候用：** 需要在 agent 工作流里生成多媒体内容、调用模型 API，或把创意任务串进自动化流程时。
+  **作者：** [@runapi-ai](https://github.com/runapi-ai)　**标签：** `RunAPI` `CLI` `图片生成` `视频生成` `音乐` `模型API`
+
 - **[huashu-design](https://github.com/alchaincyf/huashu-design)** — 花叔的 HTML 原生设计 skill，一句话产出高保真原型、幻灯片、动画、印刷级海报，内置 20 套设计哲学。
   **什么时候用：** 想要 Claude 生成不像"AI 默认审美"的视觉作品时——产品发布动画、可点击 App 原型、印刷信息图都能搞定。
   **作者：** [@alchaincyf](https://github.com/alchaincyf) (花叔)　**标签：** `HTML` `原型` `动画` `海报` `印刷级`
