@@ -72,6 +72,10 @@
   **什么时候用：** 自己写新 skill 时不想从零搭基础结构，或想跨 Claude Code / Codex 平台时。
   **作者：** [@huangwb8](https://github.com/huangwb8)　**标签：** `脚手架` `开发流水线` `Codex 兼容`
 
+- **[tree-ring-memory](https://github.com/TerminallyLazy/tree-ring-memory-skill)** — 本地优先的 agent 记忆生命周期 skill，指导 Claude 进行项目记忆召回、证据记录、审计、遗忘与合并。
+  **什么时候用：** 做长期项目、代码代理交接、复盘已验证决策或踩坑，并且需要可删除、可审计的本地记忆时。
+  **作者：** [@TerminallyLazy](https://github.com/TerminallyLazy)　**标签：** `记忆` `本地优先` `审计` `遗忘`
+
 - **[claude-skills-suite](https://github.com/joneqian/claude-skills-suite)** — 全栈 skill 套件：14 个 Agents + 16 个 Commands + 40 个 Skills，含 D3 可视化、PostgreSQL/MySQL、微信小程序等国内技术栈。
   **什么时候用：** 想要一个开箱即用的大套件，尤其是涉及国内技术栈（微信小程序、TDesign）时。
   **作者：** [@joneqian](https://github.com/joneqian)　**标签：** `合集` `全栈` `微信小程序` `数据库`
