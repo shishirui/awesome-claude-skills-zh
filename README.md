@@ -48,6 +48,10 @@
 
 > 代码 review、调试、重构、测试生成、版本管理等开发流程中的辅助技能。
 
+- **[maoxuan-product-agent](https://github.com/atdy/maoxuan-product-agent)** — 从《矛盾论》《实践论》蒸馏的中文产品决策 Agent。
+  **什么时候用：** 做需求优先级、Roadmap、增长与留存诊断、指标异常、项目延期或跨团队协作时，快速判断真正卡点和下一步。
+  **作者：** [@atdy](https://github.com/atdy)　**标签：** `产品管理` `需求决策` `增长` `中文输出` `Codex兼容`
+
 - **[yunshu_skillshub](https://github.com/yunshu0909/yunshu_skillshub)** — 云舒整理的 Claude Code skill 集合，覆盖周报、PRD、UI 设计、需求分析等开发与产品工作流。
   **什么时候用：** 需要从 git commit / 会议记录自动生成周报，或做产品需求文档与 UI 风格迭代时。
   **作者：** [@yunshu0909](https://github.com/yunshu0909)　**标签：** `合集` `周报` `PRD` `产品管理`
