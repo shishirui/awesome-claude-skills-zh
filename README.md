@@ -228,6 +228,10 @@
 
 > UI/UX 评审、文案创作、命名建议、配色与排版、原型生成等。
 
+- **[anti-ui-slop](https://github.com/uizze/uizze)** — 用 [UIZZE 公共目录](https://uizze.com) 的真实界面证据和完成门禁拦住通用 UI。
+  **什么时候用：** Claude Code 生成 React、Next.js、Web 或 iOS 界面时出现千篇一律的卡片网格、填充指标，或漏掉加载、空、错误、禁用、成功、恢复状态；免费流程无需账号、token 或 MCP。
+  **作者：** [@samuelbushi](https://github.com/samuelbushi)　**标签：** `UI/UX` `前端` `设计系统` `质量门禁` `英文项目`
+
 - **[huashu-design](https://github.com/alchaincyf/huashu-design)** — 花叔的 HTML 原生设计 skill，一句话产出高保真原型、幻灯片、动画、印刷级海报，内置 20 套设计哲学。
   **什么时候用：** 想要 Claude 生成不像"AI 默认审美"的视觉作品时——产品发布动画、可点击 App 原型、印刷信息图都能搞定。
   **作者：** [@alchaincyf](https://github.com/alchaincyf) (花叔)　**标签：** `HTML` `原型` `动画` `海报` `印刷级`
