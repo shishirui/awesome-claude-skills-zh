@@ -52,6 +52,10 @@
   **什么时候用：** 需要从 git commit / 会议记录自动生成周报，或做产品需求文档与 UI 风格迭代时。
   **作者：** [@yunshu0909](https://github.com/yunshu0909)　**标签：** `合集` `周报` `PRD` `产品管理`
 
+- **[suede-creator-skills](https://github.com/JasonColapietro/suede-creator-skills)** — 67 个 MIT 许可的 Claude Code 与 Codex skill，覆盖代码审查、设计、营销增长、Agent 编排和移动应用发布准备。
+  **什么时候用：** 需要从一个可安装的合集里组合开发交付、产品设计、增长运营或移动发布工作流时。
+  **作者：** [@JasonColapietro](https://github.com/JasonColapietro)　**标签：** `合集` `代码审查` `营销` `Codex 兼容`
+
 - **[everything-claude-code-zh](https://github.com/xu-xiang/everything-claude-code-zh)** — Anthropic 黑客松冠军方案的中文化，50+ skill 覆盖 TDD、安全审查、Docker、CI/CD 等工程化场景。
   **什么时候用：** 想搭一套生产级 Claude Code 工程化配置（agents + skills + hooks + commands + MCP）时。
   **作者：** [@xu-xiang](https://github.com/xu-xiang)　**标签：** `工程化` `TDD` `安全审查` `黑客松冠军`
