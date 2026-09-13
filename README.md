@@ -277,6 +277,7 @@
 - [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) — 综合性 AI agent skills 列表
 - [travisvn/awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills) — Claude 专属 awesome 列表
 - [tech-leads-club/agent-skills](https://github.com/tech-leads-club/agent-skills) — agent skills 收集
+- [mblode/agent-skills](https://github.com/mblode/agent-skills) - Nobody ships AI slop on purpose. These skills make sure you don't. UI audits, typography, docs, PR review, and releases. `npx skills add mblode/agent-skills`
 
 如果你知道更多优秀的中文/英文 skill 项目，欢迎通过 PR 补充到这里。
 
