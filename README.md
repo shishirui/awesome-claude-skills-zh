@@ -30,6 +30,7 @@
 - [运维部署](#运维部署)
 - [学习研究](#学习研究)
 - [设计与创意](#设计与创意)
+- [生活服务](#生活服务)
 - [通用 Prompt 模板](#通用-prompt-模板)
 - [相关资源](#相关资源)
 - [如何贡献](#如何贡献)
@@ -247,6 +248,15 @@
 - **[claude-design-skill](https://github.com/jiji262/claude-design-skill)** — 复刻 Claude.ai 内部 Design 系统 prompt，让 Claude 输出 HTML deck、landing page、原型、动画、海报。
   **什么时候用：** 想要 Claude 生成不像"AI 默认审美"的视觉输出时——能产出更接近 Claude.ai 官方风格的设计。
   **作者：** [@jiji262](https://github.com/jiji262)　**标签：** `HTML` `原型` `landing page` `海报`
+
+
+### 生活服务
+
+> 领券、优惠、生活缴费等日常消费场景的辅助技能。
+
+- **[takeout-coupon](https://github.com/moooai/takeout-coupon)** — 下饭 coupon skills 生活服务套件：一键获取美团、饿了么/淘宝闪购、京东外卖红包与隐藏口令，用户复制口令到对应 APP 即可领券。配套仓库：出行 [trip-coupon](https://github.com/moooai/trip-coupon)、电影票 [movie-coupon](https://github.com/moooai/movie-coupon)、快递 [parcel-coupon](https://github.com/moooai/parcel-coupon)、全家桶 [obtain-coupons-all-in-one](https://github.com/moooai/obtain-coupons-all-in-one)。
+  **什么时候用：** 让 Claude Code / OpenClaw 等 agent 在用户点外卖、寄快递、买电影票、出行前顺手领券省钱时。
+  **作者：** [@moooai](https://github.com/moooai)　**标签：** `优惠券` `外卖` `生活服务` `CPS`
 
 ---
 
