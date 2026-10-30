@@ -224,6 +224,10 @@
   **什么时候用：** 写学位论文文献综述、需要 GB/T 7714 或 APA/PRISMA 规范时。
   **作者：** [@YANZHANLIN](https://github.com/YANZHANLIN)　**标签：** `文献综述` `学位论文` `PRISMA` `GB/T 7714`
 
+- **[shiji-tongjian-decisions](https://github.com/zhuyep/shiji-tongjian-decisions)** — 史鉴人生抉择：用《史记》《资治通鉴》推演去留/晋升等进退两难，引文可离线核验（exact / 缺口明说）。
+  **什么时候用：** 面对留任、跳槽、晋升等现实抉择，想用古籍案例推演且要求出处可核对、不编造引文时。
+  **作者：** [@zhuyep](https://github.com/zhuyep)　**标签：** `决策` `史记` `资治通鉴` `离线核验` `中文`
+
 ### 设计与创意
 
 > UI/UX 评审、文案创作、命名建议、配色与排版、原型生成等。
