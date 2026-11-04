@@ -128,6 +128,10 @@
   **什么时候用：** 批量做短视频字幕、信息流摘要时——中文短视频平台全覆盖。
   **作者：** [@imlewc](https://github.com/imlewc)　**标签：** `视频字幕` `Whisper` `抖音` `B站`
 
+- **[dyz-gongwen-skills](https://github.com/duyunzhoudyz/dyz-gongwen-skills)** — 面向机关事业单位、国企的 22 个中文公文写作 skill，覆盖起草、改稿、核稿、去 AI 味和 GB/T 9704 国标排版（安装版可生成 Word）；缺材料处留空提示、不编造事实，检测到密级标识会先停下提醒。PolyForm Noncommercial 许可，非商用免费。
+  **什么时候用：** 写通知、请示、报告、讲话稿、总结，或把 AI 初稿改成规范公文并按国标排版时。
+  **作者：** [@duyunzhoudyz](https://github.com/duyunzhoudyz)　**标签：** `公文` `国标排版` `去AI味` `防编造` `非商用`
+
 ### 数据处理
 
 > CSV/Excel 处理、SQL 查询、数据清洗、可视化、报表生成等。
