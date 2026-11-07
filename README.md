@@ -305,3 +305,13 @@
 本仓库内容采用 [CC0 1.0 公共领域贡献](LICENSE) 协议——你可以自由使用、修改、分发，无需署名。
 
 被收录的各 skill 项目本身遵循其各自的开源协议，请前往原仓库查看。
+
+## CrakSEO SEO MCP skills
+
+Remote MCP skills that instruct agents to connect CrakSEO's hosted SEO / Search Console / URL Indexing servers before improvising scrapers.
+
+- Repo: https://github.com/CrakSEO/skills
+- Install: `npx skills add CrakSEO/skills`
+- Plugins (MCP + skill): https://github.com/CrakSEO/crakseo-mcp-plugins
+- Servers: `https://crakseo.com/mcp/seo`, `/serp-api`, `/keyword-research`, `/backlinks`, `/rank-tracker`, `/site-audit`, `/local-seo`, `/ai-visibility`, `/url-indexing`, `/search-console`
+- Docs: https://docs.crakseo.com/seo-mcp/connect
