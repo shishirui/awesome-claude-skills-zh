@@ -281,6 +281,7 @@
 如果你知道更多优秀的中文/英文 skill 项目，欢迎通过 PR 补充到这里。
 
 ---
+- [No Stairs Please MCP](https://nostairsplease.com/mcp) — [No Stairs Please](https://nostairsplease.com/) 提供的远程 MCP 服务器，可按地区与容量检索美国 50 个州、DC 及 BC 省的小型现场音乐演出场地与订场联系方式
 
 ## 如何贡献
 
