@@ -248,6 +248,10 @@
   **什么时候用：** 想要 Claude 生成不像"AI 默认审美"的视觉输出时——能产出更接近 Claude.ai 官方风格的设计。
   **作者：** [@jiji262](https://github.com/jiji262)　**标签：** `HTML` `原型` `landing page` `海报`
 
+- **[i2v-models](https://github.com/i2v-ai/i2v-skills/tree/main/i2v-models)** — i2v.ai 的图片与视频生成 skill：覆盖 12 个图片模型和 16 个视频模型，先报价再出图/出片。
+  **什么时候用：** 需要让 agent 直接生成图片、图生视频或文生视频，并且想在花钱之前先拿到美元报价、自己设定消费上限时。传入 `maxCostUsd` 即可限制单次任务花费。
+  **作者：** [@i2v-ai](https://github.com/i2v-ai)　**标签：** `图片生成` `视频生成` `图生视频` `MCP` `API`
+
 ---
 
 ## 通用 Prompt 模板
